@@ -34,7 +34,7 @@
 				var startPositionLeft 	= Math.random() * documentWidth - 100,
 				 	startOpacity		= 0.5 + Math.random(),
 					sizeFlake			= options.minSize + Math.random() * options.maxSize,
-					endPositionTop		= documentHeight - 40,
+					endPositionTop		= documentHeight - defaults.maxSize - 40,
 					endPositionLeft		= startPositionLeft - 100 + Math.random() * 200,
 					durationFall		= documentHeight * 10 + Math.random() * 5000;
 				$flake
