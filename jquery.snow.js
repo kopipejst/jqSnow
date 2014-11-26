@@ -50,7 +50,7 @@
 							left: startPositionLeft,
 							opacity: startOpacity,
 							'font-size': sizeFlake,
-							color: options.flakeColors[Math.floor((Math.random() * options.flakeColors.length))]
+							color: options.flakeColor[Math.floor((Math.random() * options.flakeColor.length))]
 						}
 					)
 					.animate(
