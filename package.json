@@ -1,0 +1,12 @@
+{
+  "name": "jqsnow",
+  "title": "jQuery Snow Falling plugin",
+  "description": "jQuery Snow Falling plugin!",
+  "version": "1.0.0",
+  "homepage": "http://workshop.rs/2012/01/jquery-snow-falling-plugin/",
+  "author": "kopipejst <devet.sest@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filiosoft/jqSnow.git"
+  }
+}
